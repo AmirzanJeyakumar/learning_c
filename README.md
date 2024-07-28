@@ -1,4 +1,4 @@
-# stuff i found interesting
+# things i found interesting
 
 In C, the standard input stream (stdin) is buffered. This means that when you use scanf to read input, the function internally manages a buffer where it stores characters that have been read but not yet processed.
 
